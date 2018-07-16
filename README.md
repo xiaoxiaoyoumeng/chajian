@@ -1,0 +1,1 @@
+目前该文档总结了 jquery.js插件，switchPage.js插件
